@@ -1,0 +1,9 @@
+openai
+requests
+PyYAML
+speechrecognition
+pandas
+vosk
+pydub
+ffmpeg-python
+python-docx
