@@ -21,7 +21,7 @@ python src/main.py
 ## Structure
 
 ```
-assistant/
+team-optimizer/
 ├── README.md
 ├── requirements.txt
 ├── config/
@@ -40,6 +40,7 @@ assistant/
 │   │   ├── transcriber.py
 │   │   ├── generator.py
 │   │   ├── processor.py
+│   │   ├── export.py
 │   ├── task_management/
 │   │   ├── __init__.py
 │   │   ├── complexity_assessor.py
